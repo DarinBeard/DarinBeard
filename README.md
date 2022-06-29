@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DarinBeard 
-- 👀 I’m interested in ... hockey, youtube, my family
-- 🌱 I’m currently learning ... angular
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... you can't... kiding... darinbeard.com
+👋 Hi, I’m @DarinBeard https://linktr.ee/BigDaddyDonzella
 
 <!---
 DarinBeard/DarinBeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
